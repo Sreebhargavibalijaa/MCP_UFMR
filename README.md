@@ -99,4 +99,4 @@ Happy diagnosing! 🩺📊
 
 ## ✅ Example Diagnosis Output
 
-![Terminal Diagnosis Output](./Screenshot 2025-04-08 at 9.44.07 AM.png)
+![Terminal Diagnosis Output](./readme.png)
