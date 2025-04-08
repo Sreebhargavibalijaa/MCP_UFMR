@@ -81,8 +81,7 @@ Make sure the file `sample_chest_xray.jpg` is present in your directory.
 ## 📬 MCP Tool Metadata
 
 From `.mcp.json`:
-- Tool Name: `ufm-pne<img width="1440" alt="Screenshot 2025-04-08 at 9 43 19 AM" src="https://github.com/user-attachments/assets/7967abab-3249-44e9-b82b-542954041925" />
-umonia-diagnosis`
+- Tool Name: `ufm-pneumonia-diagnosis`
 - Entry File: `ufmr.py`
 - Port: `5057`
 - Endpoints:
@@ -94,4 +93,10 @@ umonia-diagnosis`
 Feel free to build your federated logic inside `ufmr.py` under the `/functions/diagnose` route.
 
 Happy diagnosing! 🩺📊
-# MCP_UFMR
+
+
+---
+
+## ✅ Example Diagnosis Output
+
+![Terminal Diagnosis Output](./Screenshot 2025-04-08 at 9.44.07 AM.png)
