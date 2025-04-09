@@ -5,6 +5,7 @@ This project is a Claude-compatible **MCP (Model Context Protocol)** server for 
 ---
 ![image](https://github.com/user-attachments/assets/e8fee96e-0552-432d-aa51-6700161b3797)
 
+![image](https://github.com/user-attachments/assets/14c9a0dc-cee2-4a69-9a61-4b619b58d2d3)
 
 
 ## 📁 Project Structure
