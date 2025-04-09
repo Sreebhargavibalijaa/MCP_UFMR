@@ -1,4 +1,4 @@
-# UFM Pneumonia Diagnosis MCP Tool
+# UFM Pneumonia Diagnosis MCP Tool #MIT Hackathon
 
 This project is a Claude-compatible **MCP (Model Context Protocol)** server for federated diagnosis using chest X-rays, patient vitals, and clinical reports.
 
