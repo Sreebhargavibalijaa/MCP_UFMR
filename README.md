@@ -3,6 +3,9 @@
 This project is a Claude-compatible **MCP (Model Context Protocol)** server for federated diagnosis using chest X-rays, patient vitals, and clinical reports.
 
 ---
+![overlay](https://github.com/user-attachments/assets/d4de4e71-52a4-4329-b4b4-98545681dd7b)
+
+
 
 ## 📁 Project Structure
 
